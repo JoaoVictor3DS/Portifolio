@@ -11,7 +11,7 @@ function Home() {
                         <p>
                             Olá, sou <br />
                             <span>João Victor Pinheiro Reis</span> <br />
-                            Dev Full Stack
+                            Dev Back End
                         </p>
                         <Link to="/sobre" className={`${styles.btn} ${styles.btn_red}`}>
                             Saiba mais sobre mim
